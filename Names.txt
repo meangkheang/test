@@ -3,4 +3,9 @@ hong
 nha
 por
 kheang
+<<<<<<< HEAD
 this is new 
+=======
+this is new line from kheang
+>>>>>>> 6f9f6f3081edc276e37c646cbb5ce7860fe7a948
+yooooo hi mengkheang lol bro what the fuck lol new line
